@@ -53,4 +53,6 @@
 ---
 ## 其他
 
+**该项目暂时由Lyle与XiaoYu共同维护，欢迎Star&PR**
+
 关于本repo有其他建议，可发邮件到 [x@lyleshaw.com](mailto:x@lyleshaw.com)
