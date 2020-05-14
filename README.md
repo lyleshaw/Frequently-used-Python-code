@@ -39,11 +39,18 @@
 对于每个md文件，请参照示例文件中的格式进行修改，示例文件格式如下：
 
 ```
-./Spider/requests.md
+./example.md
 ```
 
 ---
 
+## 进度
+
++ 0514 ：项目创建
++ 0516：./DL/pytorch.md完成
++ xxxx： ...
+
+---
 ## 其他
 
 关于本repo有其他建议，可发邮件到 [x@lyleshaw.com](mailto:x@lyleshaw.com)
