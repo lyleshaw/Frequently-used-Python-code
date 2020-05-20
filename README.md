@@ -47,8 +47,7 @@
 ## 进度
 
 + 0514 ：项目创建
-+ 0516：./DL/pytorch.md完成
-+ xxxx： ...
++ 0520 ：[PyTorch](./DL/pytorch.md)部分完成
 
 ---
 ## 其他
