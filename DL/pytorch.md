@@ -154,7 +154,7 @@ class Model(nn.Module):
 ```全连接
 class Model(nn.Module):
     def __init__(self):
-        super(Net, self).__init__()
+        super(Model, self).__init__()
         self.fc1 = nn.Linear(28,100)
         self.fc2 = nn.Linear(100,300)
         self.fc3 = nn.Linear(300,200)
@@ -182,7 +182,7 @@ class Model(nn.Module):
 ```卷积神经网络
 class Model(nn.Module):
     def __init__(self):
-        super(Net, self).__init__()
+        super(Model, self).__init__()
         self.conv1 = nn.Sequential(
             nn.Conv2d(3,16,kernel_size=5,padding=1),
             nn.BatchNorm2d(16),
